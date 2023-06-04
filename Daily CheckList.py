@@ -40,7 +40,7 @@ while True:
 	Clean_Rm = input('Did you organize your room? ')
 	print()
 	#
-	if Clean_Rm_.lower == 'yes':
+	if Clean_Rm.lower == 'yes':
 		print('Good! Almost done!')
 		print()
 	else:
